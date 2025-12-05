@@ -71,7 +71,7 @@ const int dy8[] = {0, 1, 0, -1, 1, -1, 1, -1};
 template <typename T> inline T ceildiv(T a, T b) { return (a + b - 1) / b; }
 
 void solve() {
-  
+
 
 }
 
