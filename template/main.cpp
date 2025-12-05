@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #ifndef ONLINE_JUDGE
-#include "debug.h"
+#include "./template/debug.h"
 #endif
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>
