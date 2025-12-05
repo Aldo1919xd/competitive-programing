@@ -90,7 +90,7 @@ print(const T &container) {
   cerr << '}';
 }
 
-// Map-like
+// Map-
 template <typename M>
 inline typename enable_if<is_map_like<M>::value>::type print(const M &m) {
   cerr << '{';
@@ -104,4 +104,4 @@ inline typename enable_if<is_map_like<M>::value>::type print(const M &m) {
   cerr << '}';
 }
 
-#endif // DEBUG_H
+#endif 

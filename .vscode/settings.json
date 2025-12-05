@@ -1,0 +1,8 @@
+{
+  "cph.general.defaultLanguage": "cpp",
+  "cph.general.defaultFileName": "main",
+  "cph.general.templatePath": "template/main.cpp",
+  "cph.submit.confirmSubmission": false,
+  "cph.submit.openOutputOnSubmission": false
+}
+
